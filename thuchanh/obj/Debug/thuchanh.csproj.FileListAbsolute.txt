@@ -1,0 +1,8 @@
+D:\C#\thuchanh\bin\Debug\thuchanh.exe
+D:\C#\thuchanh\bin\Debug\thuchanh.pdb
+D:\C#\thuchanh\obj\Debug\thuchanh.csprojAssemblyReference.cache
+D:\C#\thuchanh\obj\Debug\thuchanh.Form1.resources
+D:\C#\thuchanh\obj\Debug\thuchanh.Properties.Resources.resources
+D:\C#\thuchanh\obj\Debug\thuchanh.csproj.GenerateResource.cache
+D:\C#\thuchanh\obj\Debug\thuchanh.exe
+D:\C#\thuchanh\obj\Debug\thuchanh.pdb
